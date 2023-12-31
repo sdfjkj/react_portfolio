@@ -6,11 +6,4 @@ function Footer() {
     )
 }
 
-function Footer2() {
-    return (
-        <footer>
-            footer2
-        </footer>
-    )
-}
-export default {Footer,Footer2};
+export default Footer;
